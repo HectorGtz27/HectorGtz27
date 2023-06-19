@@ -13,6 +13,11 @@
 - 📫 How to reach me **alan.gtz51@gmail.com**
 
 - 📄 Know about my experiences [Hector Gutierrez](https://www.linkedin.com/in/hector-guti%C3%A9rrez-941a2521a/)
+  
+- 🌱 I’m currently learning Artificial Intelligence
+  
+- 🥷🏻I'm yellow belt in Lean Six Sigma
+  
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgtz27&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgtz27" /> </p>
 <p align="left">
