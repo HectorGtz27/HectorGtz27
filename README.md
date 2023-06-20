@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 About me:
 
 
-- 👨‍💻 All of my projects are available at [Hector Gutierrez](https://www.linkedin.com/in/hector-guti%C3%A9rrez-941a2521a/)
+- 👨‍💻 All of my projects are available at [Hector Gutierrez](https://www.linkedin.com/in/hector-guti%C3%A9rrez-941a2521a/) and here at github
 
 - 📫 How to reach me **alan.gtz51@gmail.com**
 
