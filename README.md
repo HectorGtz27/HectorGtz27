@@ -22,8 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgtz27&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgtz27" /> </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/hectorguti%C3%A9rrez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector gutierrez" height="30" width="40" /></a>
-<a href="https://instagram.com/hectorgtz13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hectorgtz13" height="30" width="40" /></a>
-</p>
+
 
 <div align="left">
   <h3 align="left">🔨Languages and Tools:</h3>
