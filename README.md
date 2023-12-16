@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" width="400" />
   <h1 align="center">Hi 👋, I'm Hector Gutierrez</h1>
-  <h3 align="center">A passionate student of third semester of the Computer Science Engineering career at Tecnológico de Monterrey in Campus Sonora Norte</h3>
 </div>
 
 ---  
