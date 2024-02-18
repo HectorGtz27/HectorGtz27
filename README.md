@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Hector Gutierrez](https://www.linkedin.com/in/hector-guti%C3%A9rrez-941a2521a/)
   
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
   
 - 🥷🏻I'm yellow belt in Lean Six Sigma
   
