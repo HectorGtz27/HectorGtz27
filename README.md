@@ -33,5 +33,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorGtz27&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorGtz27&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorGtz2&layout=compact&theme=tokyonight)
 
