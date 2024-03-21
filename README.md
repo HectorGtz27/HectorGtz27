@@ -29,6 +29,8 @@
 
 ### 📊 My Stats:
 
+[![HectorGtz27 GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorGtz27)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HectorGtz27&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorGtz27&show_icons=true&theme=tokyonight)
