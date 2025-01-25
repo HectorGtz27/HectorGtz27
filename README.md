@@ -15,7 +15,6 @@
   
 - 🌱 I’m currently learning Machine Learning
   
-- 🥷🏻I'm yellow belt in Lean Six Sigma
   
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgtz27&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgtz27" /> </p>
